@@ -1,0 +1,538 @@
+[
+    {
+      "brand": "Maruti Suzuki",
+      "models": [
+        {
+          "model": "Alto",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "4 or 5 passengers",
+          "launch_year": 2000
+        },
+        {
+          "model": "Swift",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2005
+        },
+        {
+          "model": "Baleno",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2015
+        },
+        {
+          "model": "Wagon R",
+          "fuel_type": ["Petrol", "CNG"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1999
+        },
+        {
+          "model": "Dzire",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2008
+        },
+        {
+          "model": "Ertiga",
+          "fuel_type": ["Petrol", "Diesel", "CNG"],
+          "seating_capacity": "7 passengers",
+          "launch_year": 2012
+        },
+        {
+          "model": "Vitara Brezza",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2016
+        },
+        {
+          "model": "Ciaz",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2014
+        },
+        {
+          "model": "S-Cross",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2015
+        },
+        {
+          "model": "Ignis",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2016
+        }
+      ]
+    },
+    {
+      "brand": "Hyundai",
+      "models": [
+        {
+          "model": "Santro",
+          "fuel_type": ["Petrol", "CNG"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1998
+        },
+        {
+          "model": "Grand i10",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2013
+        },
+        {
+          "model": "i20",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2008
+        },
+        {
+          "model": "Aura",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2020
+        },
+        {
+          "model": "Verna",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2006
+        },
+        {
+          "model": "Creta",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2015
+        },
+        {
+          "model": "Venue",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2019
+        },
+        {
+          "model": "Tucson",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2004
+        },
+        {
+          "model": "Kona Electric",
+          "fuel_type": ["Electric"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2018
+        }
+      ]
+    },
+    {
+      "brand": "Tata",
+      "models": [
+        {
+          "model": "Tiago",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2016
+        },
+        {
+          "model": "Altroz",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2019
+        },
+        {
+          "model": "Tigor",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2017
+        },
+        {
+          "model": "Nexon",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2017
+        },
+        {
+          "model": "Harrier",
+          "fuel_type": ["Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2019
+        },
+        {
+          "model": "Safari",
+          "fuel_type": ["Diesel"],
+          "seating_capacity": "6 or 7 passengers",
+          "launch_year": 1998
+        },
+        {
+          "model": "Tigor EV",
+          "fuel_type": ["Electric"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2020
+        },
+        {
+          "model": "Nexon EV",
+          "fuel_type": ["Electric"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2019
+        }
+      ]
+    },
+    {
+      "brand": "Mahindra",
+      "models": [
+        {
+          "model": "KUV100 NXT",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "6 passengers",
+          "launch_year": 2016
+        },
+        {
+          "model": "Thar",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "4 or 6 passengers",
+          "launch_year": 2010
+        },
+        {
+          "model": "XUV300",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2019
+        },
+        {
+          "model": "Scorpio",
+          "fuel_type": ["Diesel"],
+          "seating_capacity": "7 or 9 passengers",
+          "launch_year": 2002
+        },
+        {
+          "model": "Bolero",
+          "fuel_type": ["Diesel"],
+          "seating_capacity": "7 or 9 passengers",
+          "launch_year": 2000
+        },
+        {
+          "model": "Marazzo",
+          "fuel_type": ["Diesel"],
+          "seating_capacity": "7 or 8 passengers",
+          "launch_year": 2018
+        },
+        {
+          "model": "Alturas G4",
+          "fuel_type": ["Diesel"],
+          "seating_capacity": "7 passengers",
+          "launch_year": 2018
+        },
+        {
+          "model": "eKUV100",
+          "fuel_type": ["Electric"],
+          "seating_capacity": "4 passengers",
+          "launch_year": 2019
+        },
+        {
+          "model": "XUV500",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "7 passengers",
+          "launch_year": 2011
+        }
+      ]
+    },
+    {
+      "brand": "Kia",
+      "models": [
+        {
+          "model": "Seltos",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2019
+        },
+        {
+          "model": "Sonet",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2020
+        },
+        {
+          "model": "Carnival",
+          "fuel_type": ["Diesel"],
+          "seating_capacity": "7 or 9 passengers",
+          "launch_year": 2020
+        },
+        {
+          "model": "Soul EV",
+          "fuel_type": ["Electric"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2019
+        },
+        {
+          "model": "Stinger",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2017
+        }
+      ]
+    },
+    {
+      "brand": "Toyota",
+      "models": [
+        {
+          "model": "Etios",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2010
+        },
+        {
+          "model": "Yaris",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2018
+        },
+        {
+          "model": "Glanza",
+          "fuel_type": ["Petrol", "Hybrid"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2019
+        },
+        {
+          "model": "Innova Crysta",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "7 or 8 passengers",
+          "launch_year": 2016
+        },
+        {
+          "model": "Fortuner",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "7 passengers",
+          "launch_year": 2009
+        },
+        {
+          "model": "Camry",
+          "fuel_type": ["Petrol", "Hybrid"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1982
+        },
+        {
+          "model": "Corolla Altis",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2002
+        },
+        {
+          "model": "Vellfire",
+          "fuel_type": ["Petrol", "Hybrid"],
+          "seating_capacity": "7 passengers",
+          "launch_year": 2002
+        },
+        {
+          "model": "Land Cruiser Prado",
+          "fuel_type": ["Diesel"],
+          "seating_capacity": "7 passengers",
+          "launch_year": 1984
+        },
+        {
+          "model": "Urban Cruiser",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2020
+        }
+      ]
+    },
+    {
+      "brand": "Honda",
+      "models": [
+        {
+          "model": "Amaze",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2013
+        },
+        {
+          "model": "Jazz",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2001
+        },
+        {
+          "model": "City",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1996
+        },
+        {
+          "model": "WR-V",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2017
+        },
+        {
+          "model": "Civic",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2006
+        },
+        {
+          "model": "CR-V",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2003
+        },
+        {
+          "model": "HR-V",
+          "fuel_type": ["Petrol", "Hybrid"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2013
+        },
+        {
+          "model": "Accord",
+          "fuel_type": ["Petrol", "Hybrid"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1976
+        },
+        {
+          "model": "Civic Type R",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "4 passengers",
+          "launch_year": 1997
+        },
+        {
+          "model": "Clarity Fuel Cell",
+          "fuel_type": ["Hydrogen Fuel Cell"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2016
+        }
+      ]
+    },
+    {
+      "brand": "Renault",
+      "models": [
+        {
+          "model": "Kwid",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2015
+        },
+        {
+          "model": "Triber",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "7 passengers",
+          "launch_year": 2019
+        },
+        {
+          "model": "Duster",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2012
+        },
+        {
+          "model": "Lodgy",
+          "fuel_type": ["Diesel"],
+          "seating_capacity": "7 or 8 passengers",
+          "launch_year": 2015
+        },
+        {
+          "model": "Captur",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2017
+        }
+      ]
+    },
+    {
+      "brand": "Volkswagen",
+      "models": [
+        {
+          "model": "Polo",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1975
+        },
+        {
+          "model": "Vento",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2010
+        },
+        {
+          "model": "T-Roc",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2017
+        },
+        {
+          "model": "Tiguan Allspace",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "7 passengers",
+          "launch_year": 2017
+        },
+        {
+          "model": "Taigun",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2021
+        },
+        {
+          "model": "Passat",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1973
+        },
+        {
+          "model": "ID.4",
+          "fuel_type": ["Electric"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2020
+        },
+        {
+          "model": "Arteon",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2017
+        },
+        {
+          "model": "Golf",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1974
+        },
+        {
+          "model": "Amarok",
+          "fuel_type": ["Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2010
+        }
+      ]
+    },
+    {
+      "brand": "MG Motors",
+      "models": [
+        {
+          "model": "Hector",
+          "fuel_type": ["Petrol", "Diesel", "Hybrid"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2019
+        },
+        {
+          "model": "Hector Plus",
+          "fuel_type": ["Petrol", "Diesel", "Hybrid"],
+          "seating_capacity": "6 or 7 passengers",
+          "launch_year": 2020
+        },
+        {
+          "model": "ZS EV",
+          "fuel_type": ["Electric"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2019
+        },
+        {
+          "model": "Gloster",
+          "fuel_type": ["Diesel"],
+          "seating_capacity": "6 or 7 passengers",
+          "launch_year": 2020
+        },
+        {
+          "model": "Aster",
+          "fuel_type": ["Petrol"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2022
+        }
+      ]
+    }
+  ]
