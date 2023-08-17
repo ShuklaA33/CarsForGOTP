@@ -534,5 +534,178 @@
           "launch_year": 2022
         }
       ]
+    },{
+      "brand": "Mercedes",
+      "models": [
+        {
+          "model": "A-Class",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1997
+        },
+        {
+          "model": "C-Class",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1993
+        },
+        {
+          "model": "E-Class",
+          "fuel_type": ["Petrol", "Diesel", "Hybrid"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1993
+        },
+        {
+          "model": "S-Class",
+          "fuel_type": ["Petrol", "Diesel", "Hybrid"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 1972
+        },
+        {
+          "model": "GLE",
+          "fuel_type": ["Petrol", "Diesel", "Hybrid"],
+          "seating_capacity": "5 or 7 passengers",
+          "launch_year": 2015
+        },
+        {
+          "model": "GLC",
+          "fuel_type": ["Petrol", "Diesel", "Hybrid"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2015
+        },
+        {
+          "model": "GLA",
+          "fuel_type": ["Petrol", "Diesel"],
+          "seating_capacity": "5 passengers",
+          "launch_year": 2013
+        },
+        {
+          "model": "CLS",
+          "fuel_type": ["Petrol", "Diesel", "Hybrid"],
+          "seating_capacity": "4 passengers",
+          "launch_year": 2004
+        },
+        {
+          "model": "AMG GT",
+          "fuel_type": ["Petrol", "Hybrid"],
+          "seating_capacity": "2 passengers",
+          "launch_year": 2014
+        },
+        {
+          "model": "SL-Class",
+          "fuel_type": ["Petrol", "Hybrid"],
+          "seating_capacity": "2 passengers",
+          "launch_year": 1954
+        }
+      ]
+    
+    },
+    {
+      "brand": "Force Motors",
+  "models": [
+    {
+      "model": "Gurkha",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "4 or 6 passengers",
+      "launch_year": 2008
+    },
+    {
+      "model": "Traveller",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "9, 12, or 17 passengers",
+      "launch_year": 1989
+    },
+    {
+      "model": "Gurkha Xtreme",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "4 or 6 passengers",
+      "launch_year": 2019
+    },
+    {
+      "model": "Kargo King",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "2 passengers",
+      "launch_year": 2017
+    },
+    {
+      "model": "Trax",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "9 or 12 passengers",
+      "launch_year": 1986
+    },
+    {
+      "model": "Gurkha Xplorer",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "4 or 6 passengers",
+      "launch_year": 2013
+    },
+    {
+      "model": "Kargo King Pickup",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "2 passengers",
+      "launch_year": 2018
+    },
+    {
+      "model": "Traveller 26",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "26 passengers",
+      "launch_year": 2018
+    }
+  ]
+
+    },
+    {
+      "brand": "Tempo Traveller",
+  "models": [
+    {
+      "model": "Tempo Traveller 12 Seater",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "12 passengers",
+      "launch_year": 1968
+    },
+    {
+      "model": "Tempo Traveller 17 Seater",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "17 passengers",
+      "launch_year": 1971
+    },
+    {
+      "model": "Tempo Traveller 26 Seater",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "26 passengers",
+      "launch_year": 1986
+    },
+    {
+      "model": "Tempo Traveller Luxury",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "9, 12, or 15 passengers",
+      "launch_year": 2000
+    },
+    {
+      "model": "Tempo Traveller School Bus",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "20 passengers",
+      "launch_year": 1995
+    },
+    {
+      "model": "Tempo Traveller Ambulance",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "4 patients",
+      "launch_year": 2010
+    },
+    {
+      "model": "Tempo Traveller Deluxe",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "9 or 12 passengers",
+      "launch_year": 2005
+    },
+    {
+      "model": "Tempo Traveller Executive",
+      "fuel_type": ["Diesel"],
+      "seating_capacity": "9 or 12 passengers",
+      "launch_year": 2015
+    }
+  ]
+
     }
   ]
